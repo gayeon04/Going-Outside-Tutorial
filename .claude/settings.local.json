@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-Content \"C:\\\\Users\\\\gayeon\\\\Documents\\\\Unreal Projects\\\\test_\\\\Saved\\\\Crashes\\\\UECC-Windows-3C8C13A3480F1B1A89BA13A54FFF7EC7_0000\\\\test_.log\")",
+      "Bash(Select-Object -Last 100)"
+    ]
+  }
+}

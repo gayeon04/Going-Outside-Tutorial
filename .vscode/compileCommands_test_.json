@@ -1,0 +1,2074 @@
+[
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSCamera\\ALSCamera.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSCamera.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSCamera\\Private\\ALSCameraModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSCamera.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSCamera\\Private\\ALSCameraModule.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSCamera.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSCamera\\Private\\AlsCameraAnimationInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSCamera.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSCamera\\Private\\AlsCameraComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSCamera.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSCamera\\Private\\AlsCameraComponent_Debug.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSCamera.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSCamera\\Private\\AlsCameraSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSCamera.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSCamera\\Private\\Notifies\\AlsAnimNotify_CameraShake.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSCamera.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSCamera\\Public\\AlsCameraAnimationInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSCamera.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSCamera\\Public\\AlsCameraComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSCamera.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSCamera\\Public\\AlsCameraSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSCamera.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSCamera\\Public\\Notifies\\AlsAnimNotify_CameraShake.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSCamera.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSCamera\\Public\\Utility\\AlsCameraConstants.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSCamera.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\ALSEditor.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Private\\ALSEditorModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Private\\ALSEditorModule.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Private\\AlsSkeletonUtility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Private\\Modifiers\\AlsAnimationModifier_CalculateRotationYawSpeed.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Private\\Modifiers\\AlsAnimationModifier_CopyCurves.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Private\\Modifiers\\AlsAnimationModifier_CreateCurves.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Private\\Modifiers\\AlsAnimationModifier_CreateLayeringCurves.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Private\\Nodes\\AlsAnimGraphNode_CurvesBlend.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Private\\Nodes\\AlsAnimGraphNode_GameplayTagsBlend.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Public\\AlsSkeletonUtility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Public\\Modifiers\\AlsAnimationModifier_CalculateRotationYawSpeed.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Public\\Modifiers\\AlsAnimationModifier_CopyCurves.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Public\\Modifiers\\AlsAnimationModifier_CreateCurves.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Public\\Modifiers\\AlsAnimationModifier_CreateLayeringCurves.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Public\\Nodes\\AlsAnimGraphNode_CurvesBlend.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSEditor\\Public\\Nodes\\AlsAnimGraphNode_GameplayTagsBlend.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSEditor.5.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSExtras\\ALSExtras.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSExtras.4.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSExtras\\Private\\ALSExtrasModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSExtras.4.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSExtras\\Private\\ALSExtrasModule.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSExtras.4.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSExtras\\Private\\AlsAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSExtras.4.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSExtras\\Private\\AlsCharacterExample.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSExtras.4.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSExtras\\Public\\AlsAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSExtras.4.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALSExtras\\Public\\AlsCharacterExample.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALSExtras.4.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\ALS.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\ALSModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\ALSModule.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\AlsAnimationInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\AlsAnimationInstanceProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\AlsCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\AlsCharacterMovementComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\AlsCharacter_Actions.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\AlsCharacter_Debug.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\AlsLinkedAnimationInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Nodes\\AlsAnimNode_CurvesBlend.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Nodes\\AlsAnimNode_GameplayTagsBlend.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Nodes\\AlsRigUnit_ApplyFootOffsetLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Nodes\\AlsRigUnit_ApplyFootOffsetRotation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Nodes\\AlsRigUnit_ChainLength.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Nodes\\AlsRigUnit_DistributeRotationSimple.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Nodes\\AlsRigUnit_FootOffsetTrace.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Nodes\\AlsRigUnit_HandIkRetargeting.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Nodes\\AlsRigUnits.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Notifies\\AlsAnimNotifyState_EarlyBlendOut.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Notifies\\AlsAnimNotifyState_SetLocomotionAction.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Notifies\\AlsAnimNotifyState_SetRootMotionScale.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Notifies\\AlsAnimNotify_FootstepEffects.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Notifies\\AlsAnimNotify_SetGroundedEntryMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\RootMotionSources\\AlsRootMotionSource_Mantling.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Settings\\AlsAnimationInstanceSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Settings\\AlsCharacterSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Settings\\AlsInAirSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Settings\\AlsMantlingSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Utility\\AlsDebugUtility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Utility\\AlsGameplayTags.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Utility\\AlsLog.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Utility\\AlsMacros.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Utility\\AlsMath.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Utility\\AlsMontageUtility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Utility\\AlsUtility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Private\\Utility\\AlsVector.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\AlsAnimationInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\AlsAnimationInstanceProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\AlsCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\AlsCharacterMovementComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\AlsLinkedAnimationInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Nodes\\AlsAnimNode_CurvesBlend.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Nodes\\AlsAnimNode_GameplayTagsBlend.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Nodes\\AlsRigUnit_ApplyFootOffsetLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Nodes\\AlsRigUnit_ApplyFootOffsetRotation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Nodes\\AlsRigUnit_ChainLength.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Nodes\\AlsRigUnit_DistributeRotationSimple.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Nodes\\AlsRigUnit_FootOffsetTrace.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Nodes\\AlsRigUnit_HandIkRetargeting.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Nodes\\AlsRigUnits.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Notifies\\AlsAnimNotifyState_EarlyBlendOut.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Notifies\\AlsAnimNotifyState_SetLocomotionAction.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Notifies\\AlsAnimNotifyState_SetRootMotionScale.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Notifies\\AlsAnimNotify_FootstepEffects.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Notifies\\AlsAnimNotify_SetGroundedEntryMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\RootMotionSources\\AlsRootMotionSource_Mantling.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsAnimationInstanceSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsCharacterSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsCrouchingSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsDynamicTransitionsSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsFeetSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsGeneralAnimationSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsGroundedSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsHeadSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsInAirRotationMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsInAirSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsMantlingSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsMovementSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsRagdollingSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsRollingSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsRotateInPlaceSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsStandingSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsTransitionsSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsTurnInPlaceSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Settings\\AlsViewSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsControlRigInput.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsCrouchingState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsDynamicTransitionsState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsFeetState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsGroundedState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsHeadState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsInAirState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsLayeringState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsLeanState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsLocomotionAnimationState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsLocomotionState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsMantlingState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsMovementBaseState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsMovementDirection.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsPoseState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsRagdollingAnimationState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsRagdollingState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsRollingState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsRotateInPlaceState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsSpineState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsStandingState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsTransitionsState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsTurnInPlaceState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsViewAnimationState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\State\\AlsViewState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Utility\\AlsConstants.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Utility\\AlsDebugUtility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Utility\\AlsEnumUtility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Utility\\AlsGameplayTags.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Utility\\AlsLog.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Utility\\AlsMacros.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Utility\\AlsMath.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Utility\\AlsMontageUtility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Utility\\AlsPrivateMemberAccessor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Utility\\AlsRotation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Utility\\AlsUtility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Plugins\\ALS\\Source\\ALS\\Public\\Utility\\AlsVector.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\ALS.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Characters\\AI\\HiAICharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Characters\\AI\\HiAICharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Characters\\AI\\HiAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Characters\\AI\\HiAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Characters\\AI\\HiAISpawner.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Characters\\AI\\HiAISpawner.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Characters\\HiCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Characters\\HiCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Characters\\HiPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Characters\\HiPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Data\\HiAICharacterData.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Data\\HiAICharacterData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Interaction\\HiInteractionComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Interaction\\HiInteractionComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Interaction\\HiPickupBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Interaction\\HiPickupBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Private\\EncounterActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Private\\HikerGroupActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Private\\PlayerStatComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Private\\StatEffectMessage.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Public\\EncounterActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Public\\HikerGroupActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Public\\PlayerStatComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Public\\StatEffectMessage.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Settings\\HiDevSettings.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Settings\\HiDevSettings.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\AI\\CombatAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\AI\\CombatAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\AI\\CombatEnemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\AI\\CombatEnemy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\AI\\CombatEnemySpawner.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\AI\\CombatEnemySpawner.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\AI\\CombatStateTreeUtility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\AI\\CombatStateTreeUtility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\AI\\EnvQueryContext_Player.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\AI\\EnvQueryContext_Player.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Animation\\AnimNotify_CheckChargedAttack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Animation\\AnimNotify_CheckChargedAttack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Animation\\AnimNotify_CheckCombo.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Animation\\AnimNotify_CheckCombo.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Animation\\AnimNotify_DoAttackTrace.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Animation\\AnimNotify_DoAttackTrace.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\CombatCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\CombatCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\CombatGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\CombatGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\CombatPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\CombatPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Gameplay\\CombatActivationVolume.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Gameplay\\CombatActivationVolume.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Gameplay\\CombatCheckpointVolume.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Gameplay\\CombatCheckpointVolume.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Gameplay\\CombatDamageableBox.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Gameplay\\CombatDamageableBox.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Gameplay\\CombatDummy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Gameplay\\CombatDummy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Gameplay\\CombatLavaFloor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Gameplay\\CombatLavaFloor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Interfaces\\CombatActivatable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Interfaces\\CombatActivatable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Interfaces\\CombatAttacker.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Interfaces\\CombatAttacker.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Interfaces\\CombatDamageable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\Interfaces\\CombatDamageable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\UI\\CombatLifeBar.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Combat\\UI\\CombatLifeBar.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Platforming\\Animation\\AnimNotify_EndDash.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Platforming\\Animation\\AnimNotify_EndDash.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Platforming\\PlatformingCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Platforming\\PlatformingCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Platforming\\PlatformingGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Platforming\\PlatformingGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Platforming\\PlatformingPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_Platforming\\PlatformingPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\AI\\SideScrollingAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\AI\\SideScrollingAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\AI\\SideScrollingNPC.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\AI\\SideScrollingNPC.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\AI\\SideScrollingStateTreeUtility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\AI\\SideScrollingStateTreeUtility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\Gameplay\\SideScrollingJumpPad.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\Gameplay\\SideScrollingJumpPad.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\Gameplay\\SideScrollingMovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\Gameplay\\SideScrollingMovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\Gameplay\\SideScrollingPickup.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\Gameplay\\SideScrollingPickup.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\Gameplay\\SideScrollingSoftPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\Gameplay\\SideScrollingSoftPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\Interfaces\\SideScrollingInteractable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\Interfaces\\SideScrollingInteractable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\SideScrollingCameraManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\SideScrollingCameraManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\SideScrollingCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\SideScrollingCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\SideScrollingGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\SideScrollingGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\SideScrollingPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\SideScrollingPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\UI\\SideScrollingUI.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\Variant_SideScrolling\\UI\\SideScrollingUI.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\test_.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\test_.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\test_.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\test_Character.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\test_Character.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\test_GameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\test_GameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\test_PlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\Source\\test_\\test_PlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gayeon\\Documents\\Unreal Projects\\test_\\.vscode\\compileCommands_test_\\test_.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]
