@@ -73,4 +73,4 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 # Paid / external Unreal assets
-Content/Resource/
+Content/Resources/
